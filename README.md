@@ -1,5 +1,5 @@
 # AMLS_assignment22_23
-This is an implementation of AMLS 22-23 final project.
+This is an implementation of AMLS 22-23 final project by 21141916.
 
 A1, A2, B1 and B2 is the folder for the python implementation of each task. The excel file in the folders is the cross-validation results and graph for each model. The jupyter notebook in each file serves as a draft for the .py file. It is only used for testing.
 
