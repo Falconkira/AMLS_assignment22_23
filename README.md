@@ -7,7 +7,7 @@ The Datasets folder is empty due to the submission requests. It should contain t
 • cartoon_set\
 • celeba\
 • cartoon_set_test\
-• celeba_test\
+• celeba_test
 
 The results.xlsx store all the results of models, which can also be found in reports with explanations.
 
